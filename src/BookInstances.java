@@ -8,9 +8,5 @@ public class BookInstances {
         System.out.println(book1.title + ", " + book1.author + ", " + book1.isbn);
         System.out.println("\"" + book2.title + "\"" + ", " + book2.author + ", " + "ISBN " + book2.isbn);
         System.out.println("\"" + book3.title + "\"" + ", " + book3.author + ", " + "ISBN " + book3.isbn);
-
-
     }
-
-
 }
